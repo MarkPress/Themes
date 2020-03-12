@@ -1,0 +1,7 @@
+# CleanBlog
+
+A clean and simple blog system based MarkPress theme.
+
+### Screenshot
+
+![Screenshot](https://camo.githubusercontent.com/0a759b13ef5b9534c4a7864fd86eb704f8baaf9a/687474703a2f2f7777772e726f626572746465766f72652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031352f30382f637573746f6d697a65722d686f6d652d696e74726f2e6a7067)
